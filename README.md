@@ -1,7 +1,5 @@
 # mcp
 
-# SelfDelete
-
 This project demonstrates automated file cleanup.
 
 <!--  
